@@ -103,3 +103,28 @@ a[href^="#"]:hover, a[href^="#"]:focus {
   }
   
   /* HERO */
+
+
+
+
+  /* TITLE */
+.title{
+    margin:1rem 0;
+    margin-bottom:1.5rem;
+  }
+  
+  
+  .title h2{
+    font-family: 'Heebo', sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 1.6rem;
+    font-weight: 800;
+  
+  }
+  
+  .title h3{
+    color: #bfbfbf;
+    font-size:.7rem;
+  }
+  
+    /* TITLE */
