@@ -20,3 +20,48 @@ body{
     background-color: white;
     font-family: 'Montserrat', sans-serif;
 }
+
+
+/* HEADER */
+
+#site-header{
+    background-color: white;
+    margin-bottom: 2rem;
+    color: #bfbfbf;
+    font-size: .8rem;
+}
+
+
+.logo{
+  max-width: 15%;
+  margin-bottom:2rem ;
+
+}
+
+.nav-list{
+  list-style: none;
+  padding:0;
+  /* display: flex;
+  flex-direction: row; */
+}
+
+
+.nav-list > li{
+    display: inline-block;
+    margin-right: .7rem;
+    font-size: .7rem;
+    font-weight: 400;
+  }
+  
+
+a[href^="#"]{
+    color: #bfbfbf;
+    text-decoration: none;
+}
+
+a[href^="#"]:hover, a[href^="#"]:focus {
+    color: #2b2727;
+    text-decoration: none;
+}
+
+  /* HEADER */
